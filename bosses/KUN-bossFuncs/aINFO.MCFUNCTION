@@ -1,0 +1,8 @@
+tellraw @s "HES : Created by iTyro : August 7, 2019"
+tellraw @s "HES Coords:"
+tellraw @s "    boss spawn: -358 4  -312"
+tellraw @s "  player lobby: -358 4  -284 180 0"
+tellraw @s "  player enter: -358 12 -270 180 0"
+tellraw @s "Spawn Caps:"
+tellraw @s "  minion1 = <ticks>"
+tellraw @s "  minion2 = <ticks>"
