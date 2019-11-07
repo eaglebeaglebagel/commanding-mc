@@ -1,0 +1,24 @@
+execute as @a[scores={aura=0} at @s run function aura:off
+execute as @a[scores={aura=1} at @s run particle minecraft:dragon_breath ~ ~1 ~ 1 1 1 .01 1 force
+execute as @a[scores={aura=2} at @s run particle minecraft:end_rod ~ ~1 ~ 1 1 1 .01 1 force
+execute as @a[scores={aura=3} at @s run particle minecraft:poof ~ ~ ~ 1.2 1.2 1.2 0 1 force
+execute as @a[scores={aura=4} at @s run particle minecraft:effect ~ ~1 ~ 1 1 1 0 1 force
+execute as @a[scores={aura=5} at @s run particle minecraft:enchant ~ ~1 ~ 1 1 1 0 1 force
+execute as @a[scores={aura=6} at @s run particle minecraft:entity_effect ~ ~1 ~ .7 .7 .7 0.01 1 force
+execute as @a[scores={aura=7} at @s run particle minecraft:firework ~ ~1 ~ 1 1 1 0.01 1 force
+execute as @a[scores={aura=8} at @s run particle minecraft:flame ~ ~1 ~ 1 1 1 0.0 1 force
+execute as @a[scores={aura=9} at @s run particle minecraft:happy_villager ~ ~1 ~ 1 1 1 0.0 1 force
+execute as @a[scores={aura=10} at @s run particle minecraft:totem_of_undying ~ ~1 ~ 1 1 1 0.0 1 force
+execute as @a[scores={aura=11} at @s run particle minecraft:lava ~ ~1 ~ 1.2 1.2 1.2 0.0 1 force
+execute as @a[scores={aura=12} at @s run particle minecraft:note ~ ~1 ~ 1 1 1 0.01 1 force
+execute as @a[scores={aura=13} at @s run particle minecraft:hearts ~ ~1 ~ 1.2 1.2 1.2 0.0 1 force
+execute as @a[scores={aura=14..} at @s run function aura:off
+# 
+###
+#
+execute as @a[scores={aura=#} at @s run particle minecraft:dripping_lava ~ ~1 ~ 1 1 1 0 1 force 
+execute as @a[scores={aura=#} at @s run particle minecraft:damage_indicator ~ ~1 ~ 1 1 1 0 1 force
+execute as @a[scores={aura=#} at @s run particle minecraft:angry_villager ~ ~1 ~ 1 1 1 0 1 force
+execute as @a[scores={aura=#} at @s run 
+execute as @a[scores={aura=#} at @s run 
+execute as @a[scores={aura=#} at @s run particle minecraft:cloud ~ ~ ~ 1.2 1.2 1.2 0 1 force
