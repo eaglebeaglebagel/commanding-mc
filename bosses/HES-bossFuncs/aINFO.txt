@@ -1,0 +1,14 @@
+Kun Coords:
+
+boss spawn: 873 26 -579
+
+player lobby: 866 31 -542
+
+player enter: 873 25 -557
+		180 0
+
+
+Spawn Caps:
+
+merfolkr = 30
+merfolkt = 20
