@@ -1,4 +1,0 @@
-auraFuncsExt init
-
-
-# Need to creat proper folders to reflect world structure
