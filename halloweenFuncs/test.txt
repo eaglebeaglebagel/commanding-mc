@@ -1,1 +1,0 @@
-halloweenFuncs init
